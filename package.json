@@ -1,0 +1,9 @@
+{
+  "watch": {
+    "test": "{src,test}/*.js"
+  },
+  "scripts": {
+    "test": "tape test/*.js",
+    "watch": "npm-watch"
+  }
+}
